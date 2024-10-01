@@ -1,0 +1,112 @@
+.div1 {
+    display: block;
+    min-width: 100px;
+    border-radius: 15px;
+    align-items: baseline;
+    background-color: antiquewhite;
+}
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  .poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+ 
+.div2 {
+  min-width: 100px;
+  align-items: baseline;
+  /* border-radius: 15%; */
+  background-color: #a5a8da;
+}  
+.anton-regular {
+  font-size: xx-large;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/* <uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 100 to 900 */
+
+.div3 {
+  min-width: 100px;
+  align-items: baseline;
+  background-color: rgb(250, 173, 145);
+}
+.montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.montserrat-regular-resized{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+}
+.montserrat-italic {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.div4 {
+  min-width: 100px;
+  align-items: baseline;
+  background-color: rgb(125, 214, 144);
+}
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.div5 {
+  min-width: 100px;
+  align-items: baseline;
+  background-color: rgb(245, 247, 144);
+}
+/* <uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 200 to 700 */
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
